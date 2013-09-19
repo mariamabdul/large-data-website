@@ -23,19 +23,19 @@ The website is targeted at enthusiasts who are interested in finding out more in
 
 ## Content sources
 
-- <http://a-z-animals.com/animals/falcon/>
-- <http://ohiodnr.com/wildlife/dow/falcons/facts.aspx>
-
+- <http://en.wikipedia.org/wiki/Falcon>
+- <http://www.dep.state.pa.us/dep/falcon/falconinfo.html>
+- <http://www.peregrine-net.com/PGS_PGN_GENERAL/Falcon_Info.html>
 
 ## Sample article
 
-- <http://en.wikipedia.org/wiki/Falcon>
+- <http://a-z-animals.com/animals/falcon/>
 
 ## Similar sites
 
-- <http://www.dep.state.pa.us/dep/falcon/falconinfo.html>
+- <http://ohiodnr.com/wildlife/dow/falcons/facts.aspx>
 - <http://animals.nationalgeographic.com/animals/birds/peregrine-falcon/>
-- <http://www.peregrine-net.com/PGS_PGN_GENERAL/Falcon_Info.html>
+
 
 ## To-do
 
