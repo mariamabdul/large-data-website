@@ -13,15 +13,7 @@ The card sort was conducted by Mariam Abdulwahab on october 12th, 2013 between t
 
 15 cards were used covering a broad range of applicable content for the website. The following topics were used as cards:
 
-1. Species Info
-2. Home Page
-3. Falcons in the wild
-4. History and perservation of falcons
-5. Kinds of falcons
-6. Act of falcons
-7. Scholarship
-8. Circumstances
-9. Etc.
+1. Falcon2. Systematics and evolution3. Overview4. Species5. Fossil Records6. The Peregrine Species7. Falcon Status and Conservation8. Growth and Development9. Nesting10. An endangered species11. Falco Peregruinus12. Taxonomy and systematics of peregrine13. Subspecies14. Ecology and behaviour15. Abu Dhabi Falcon hospital
 
 ## Card sort results
 

@@ -8,7 +8,7 @@ liam is an old man that has been always out exploring new things in nature. He l
 
 **Personal goals**
 
-- Explore new things and birds
+- Explore new things about falcons
 - Be healthy and active
 - Stay updated about news of nature
 
@@ -36,9 +36,9 @@ liam is an old man that has been always out exploring new things in nature. He l
 
 ## Samantha
 
-*26, female, single, freelance designer*
+*16, female, high school student*
 
-Samantha is an active woman who likes to have some quite time a peace when shes off of work to go to the parks and walk while exploring new things that would inspire her when shes designing
+Samantha is an active woman who likes to have some quite time a peace when shes off school to go to the parks and walk while exploring new things that would inspire her when shes designing
 
 **Personal goals**
 
@@ -48,16 +48,16 @@ Samantha is an active woman who likes to have some quite time a peace when shes 
 **Technology skills**
 
 - Knows almost everthing about technology
-- Has a smart phone, tablet, smart TV, laptop
+- Has a smart phone, tablet, laptop
 
 **Likes**
 
-- Going out with freinds in the weekend
-- Learning about nature to get inspired with her work
+- Going to bird show and taking pictures of falcons
+- Learning about falcons to get inspired for her science project
 
 **Dislikes**
 
-- People that steal other peoples work without lisence
+- People that copy other peoples work without asking
 - Information that is too complicated and not visual
 
 ### What would help?
