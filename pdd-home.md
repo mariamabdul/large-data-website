@@ -12,6 +12,7 @@
 - Website branding, logo
 - Primary navigation
 - Image galley
+- Links to events
 
 ## 3. Low
 
