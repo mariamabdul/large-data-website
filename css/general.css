@@ -22,6 +22,20 @@ p {
 	margin-top: 10%;
 }
 
+.billboard1 img {
+	width:100%;
+	margin: 0 auto;
+	margin-top: -0.5%;
+
+	}
+	
+
+.bucket {
+	
+	padding-bottom: 3%;
+	
+	}
+
 .list-nav {
 	padding-left: 0;
 	list-style-type: none;
@@ -52,26 +66,24 @@ p {
 	color: #6d767a;
 }
 
-.falimage {
-	width: 100%;
-}
 
 .wrapper clearfix {
 	background-color: #CDCDCD;
 }
 
-.bucket1 {
-	float: left;
-	margin-right: 5%;
-}
-
-.bucket2 {
-	float: right;
-	margin-right: 5%;	
-}
 
 footer {
+	clear: both;
+	background-color: #666;
 	float: bottom;
+}
+
+.billboard2 {
+	display: none;
+}
+
+.billboard3 {
+	display: none;
 }
 
 @media only screen and (min-width: 20em) {
@@ -89,44 +101,23 @@ h1 {
 	margin-bottom: 13%;
 }
 
-
-
+.bucket1 {
+	float: left;
+	margin-right: 5%;
 }
 
-
-@media only screen and (min-width: 23em) {
-
-.logo {
-	width: 35%;
-	margin-left: 30%;
+.bucket2 {
+	float: right;
+	margin-right: 5%;	
 }
 
-h1 {
-	margin-left: 40%;
-	color: #68bac9;
-	margin-top: 0;
-	font-size: 140%;
-	margin-bottom: 13%;
+.billboard2 {
+	display: none;
 }
 
 }
 
-@media only screen and (min-width: 30em) {
 
-.logo {
-	width: 30%;
-	margin-left: 33%;
-}
-
-h1 {
-	margin-left: 42%;
-	color: #68bac9;
-	margin-top: 0;
-	font-size: 140%;
-	margin-bottom: 8%;
-}
-
-}
 
 @media only screen and (min-width: 36em) {
 
@@ -154,6 +145,8 @@ h1 {
 	border-bottom-style: #6d767a;
 }
 
+
+
 }
 
 @media only screen and (min-width: 42em) {
@@ -170,6 +163,45 @@ h1 {
 	margin-top: 0;
 	font-size: 123%;
 	margin-bottom: 8%;
+}
+
+.falimage {
+	padding: 100px;
+}
+
+.bucket {
+	
+	overflow: hidden;
+	width: 80%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin: auto;
+	
+	}
+	
+	
+.shift_left {
+	
+	text-align: left;
+			float:left;
+			max-width:49%;
+		}
+		
+		
+
+.shift_right {
+			text-align: left;
+			
+			float:right;
+			max-width:49%;
+		}
+
+.billboard1 {
+	display: none;
+}
+
+.billboard2 {
+	display: inline;
 }
 
 }
@@ -202,8 +234,6 @@ h1 {
 
 }
 
-}
-
 @media only screen and (min-width: 61em) {
 
 .logo {
@@ -218,6 +248,18 @@ h1 {
 	margin-top: 0;
 	font-size: 123%;
 	margin-bottom: 8%;
+}
+
+.billboard1 {
+	display: none;
+}
+
+.billboard2 {
+	display: none;
+}
+
+.billboard3 {
+	display: block;
 }
 
 }
