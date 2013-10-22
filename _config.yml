@@ -1,2 +1,3 @@
 markdown: redcarpet
-baseurl: /falcons
+baseurl: /large-data-website
+exclude: ['ia', 'visual-style', 'README.md']
