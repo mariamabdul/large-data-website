@@ -69,10 +69,14 @@ p {
 	background-color: #CDCDCD;
 }
 
+.list-sub {
+	padding-bottom: 5%;
+	font-size: 14px;
+}
+
 
 footer {
 	clear: both;
-	background-color: #666;
 	float: bottom;
 }
 
@@ -179,6 +183,12 @@ h2 {
 .shift_left {
 	text-align: left;
 	float:left;
+
+}
+
+.shift_right {
+	text-align: right;
+	float: right;
 
 }
 		
