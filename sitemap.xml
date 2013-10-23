@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!--
+	The sitemap.xml file should be in the same location as your index.html
+	At the root of your domain: domain.com/sitemap.xml
+-->
+
+   <url>
+   		<!--
+			<loc> - Location, URL
+			The full URL starting with http://
+			REQUIRED
+		-->
+      <loc>http://www.dinosaurs.com/</loc>
+	  
+	  <!--
+	  	<lastmod> - Last Modified date
+		OPTIONAL
+	  -->
+      <lastmod>2005-01-01</lastmod>
+	  
+	  <!--
+	  	- never
+		- yearly
+		- monthly
+		- weekly
+		- daily
+		- hourly
+		- always
+	  -->
+	  	<changefreq> - Change frequency
+		
+      <changefreq>monthly</changefreq>
+	  
+	  <!--
+	  	<priority> - How important this page is in the website
+		0.1 - 1.0
+		Lowest - Highest
+	  -->
+      <priority>0.8</priority>
+   </url>
+
+	<url>
+		<loc>http://dinosaurs.com/carnicores.html</loc>
+	</url>
+	
+</urlset> 
