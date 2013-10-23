@@ -70,9 +70,21 @@ p {
 }
 
 .list-sub {
-	padding-bottom: 5%;
+	padding-bottom: 1em;
 	font-size: 14px;
 }
+
+
+
+.sub {
+	background-color: #68bac9; 
+}
+
+
+.pergerine {
+	width: 50%;
+}
+
 
 
 footer {

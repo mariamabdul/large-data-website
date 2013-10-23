@@ -1,2 +1,27 @@
-# http://humanstxt.org
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Mariam Abdulwahab <hey@tmariamadesign.ca>
+Site: http://mariamadesign.ca
+GitHub: https://github.com/mariamabdul
+Twitter: @mariamadesign
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Icons from The Noun Project <http://thenounproject.com/>
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3 (with Vintageous)
+- Git + GitHub
+- Markdown
+
 

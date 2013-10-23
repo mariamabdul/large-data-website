@@ -3,7 +3,7 @@
 # in the same location as your homepage index.html
 # http://domain.com/robots.txt
 
-Sitemap: http://dinosaurs.com/sitemap.xml
+Sitemap: http://mariamabdul.github.io/large-data-website/
 
 # You can use your robots.txt to prevent Google from spidering things
 # User-Agent: *
