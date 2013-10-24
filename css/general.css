@@ -29,9 +29,6 @@ p {
 
 .billboard {
 	width:100%;
-	margin: 0 auto;
-	margin-top: -0.5%;
-
 }
 	
 .list-nav {
@@ -74,7 +71,9 @@ p {
 	font-size: 14px;
 }
 
-
+.img {
+	text-align: center;
+}
 
 .sub {
 	background-color: #68bac9; 
@@ -118,13 +117,12 @@ h1 {
 	margin-right: 5%;	
 }
 
-.billboard2 {
-	display: none;
+
+.billboard {
+	width: 100%;
 }
 
 }
-
-
 
 @media only screen and (min-width: 36em) {
 
@@ -204,14 +202,6 @@ h2 {
 
 }
 		
-		
-.billboard1 {
-	display: none;
-}
-
-.billboard2 {
-	display: inline;
-}
 
 }
 
@@ -241,6 +231,10 @@ h1 {
 		
 }
 
+ .shift_right {
+ 	float: right;
+ }
+
 }
 
 @media only screen and (min-width: 61em) {
@@ -259,17 +253,10 @@ h1 {
 	margin-bottom: 8%;
 }
 
-.billboard1 {
-	display: none;
-}
+ .shift_right {
+ 	float: right;
+ }
 
-.billboard2 {
-	display: none;
-}
-
-.billboard3 {
-	display: block;
-}
 
 }
 
@@ -300,6 +287,10 @@ h1 {
 	border-bottom-style: #6d767a;
 }
 
+ .shift_right {
+ 	float: right;
+ }
+
 }
 
 @media only screen and (min-width: 75em) {
@@ -328,6 +319,10 @@ h1 {
 	margin-bottom: 1%;
 	border-bottom-style: #6d767a;
 }
+
+ .shift_right {
+ 	float: right;
+ }
 
 }
 
