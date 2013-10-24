@@ -61,6 +61,10 @@ p {
 	color: #6d767a;
 }
 
+.bucket {
+	background-color: #a5c250;
+}
+
 
 .wrapper clearfix {
 	background-color: #CDCDCD;
@@ -89,6 +93,7 @@ p {
 footer {
 	clear: both;
 	float: bottom;
+	background-color: #68bac9;
 }
 
 
@@ -201,7 +206,7 @@ h2 {
 	float: right;
 
 }
-		
+
 
 }
 
