@@ -231,7 +231,7 @@ h1 {
 	color: #68bac9;
 	margin-top: 0;
 	font-size: 123%;
-	margin-bottom: 8%;
+	margin-bottom: 1%;
 }
 
 .list-nav-item {
@@ -251,6 +251,7 @@ h1 {
 
 .shift_left {
 	padding-right: 2em;
+	float: left;
 }
 
  .shift_right {
