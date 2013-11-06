@@ -11,23 +11,31 @@
 </head>
 <body>
 
- <img src="img/logo.svg" class="logo">
+<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#primenav">Skip to navigations</a></li>
+</ul>
 
-<h1>Falcons</h1>
 
-<ul class="list-nav">
+ <a href="index.html"><img src="img/logo copy.svg" class="logo" alt=""></a>
+
+<h1 role="banner" id="top">Falcons</h1>
+
+<ul class="list-nav" role="navigation" id="primenav">
 	<li><a href="index.html" class="list-nav-item grey-btn selected">Home</a></li>
 	<li><a href="falcons.html" class="list-nav-item blue-btn">Falcons</a></li>
 	<li><a href="pergerine.html" class="list-nav-item green-btn">Peregerine</a></li>
 
 </ul>
 
+<main role="main" id="main">
  {{content}}
+</main>
 
-
-	<footer>
-    	<p>©2013 Falcons All Rights Reserved.</p>
-	</footer>
+<footer role="contentinfo">
+        <p>©2013 Falcons All Rights Reserved.<a href="#top">Top</a></p>
+</footer>
+	
   
 </body>
 </html>
