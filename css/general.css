@@ -147,7 +147,9 @@ h3 {
 footer {
 	clear: both;
 	float: bottom;
-	background-color: #68bac9;
+	background-color: #a5c250;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 
