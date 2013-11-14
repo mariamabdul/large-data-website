@@ -130,6 +130,16 @@ p {
 	width: 50%;
 }
 
+h3 {
+	font-size: 5em;
+	color: #dff0f2;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: #a5c250;
+	font-family: helvetica;
+}
+
 
 
 
