@@ -59,7 +59,7 @@ h2 {
 p {
 	font-family: helvetica;
 	color: #4c565e;
-	font-size: 12px;
+	font-size: 16px;
 	margin-left: 4%;
 }
 
@@ -102,10 +102,6 @@ p {
 	color: #6d767a;
 }
 
-.bucket {
-  padding: 1em;
-}
-
 
 .wrapper clearfix {
 	background-color: #CDCDCD;
@@ -117,11 +113,11 @@ p {
 
 .list-sub {
 	padding-bottom: 1em;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .img {
-	text-align: center;
+	width: 100%;
 }
 
 .sub { 
@@ -171,14 +167,15 @@ h1 {
 	margin-bottom: 13%;
 }
 
-.bucket1 {
+.shift_left {
 	float: left;
 	margin-right: 5%;
+	margin-left: 5%;
 }
 
-.bucket2 {
+.shift_right {
 	float: right;
-	margin-right: 5%;	
+	margin-right: 10%;	
 }
 
 
@@ -262,9 +259,8 @@ h2 {
 }
 
 .shift_right {
-	text-align: right;
 	float: right;
-	width: 50%;
+	width: 40%;
 
 }
 
@@ -307,6 +303,11 @@ h1 {
 	padding-left: 2%
 	float: left;
 }
+
+.img {
+	width: 30%;
+}
+
 
 
 }
@@ -354,6 +355,11 @@ h1 {
 	width: 50%;
 }
 
+.img {
+	width: 30%;
+}
+
+
 
 }
 
@@ -400,6 +406,10 @@ h1 {
 	width: 50%;
 }
 
+.img {
+	width: 30%;
+}
+
 
 }
 
@@ -419,10 +429,6 @@ h1 {
 	margin-bottom: 1%;
 }
 
-.bucket p {
-	padding-right: 30%;
-
-}
 
 .list-nav-item {
 	width: 1em;
@@ -446,18 +452,13 @@ h1 {
 }
 
 .shift_right {
-	padding-right: 5em;
+	padding-left: 5em;
 	float: left;
 	width: 50%;
 }
 
 .img {
-	width: 50%;
-	float: left;
-}
-
-bucket {
-	width: 100%
+	width: 30%;
 }
 
 
