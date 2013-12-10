@@ -104,11 +104,6 @@ p {
 
 .bucket {
   padding: 1em;
-  margin: 0 auto;
-  width:980px;
-  position: relative;
-  background: #ece9d6 url(../img/noise.png);
-  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.22);
 }
 
 
